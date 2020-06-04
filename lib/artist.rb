@@ -11,7 +11,6 @@ class Artist
   @@artists = []
 
   def initialize
-    super
     @songs = []
   end
 
@@ -28,5 +27,6 @@ class Artist
   def add_songs(songs)
     songs.each { |song| add_song(song) }
   end
+
 end
 
