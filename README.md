@@ -25,7 +25,7 @@ recall, we are lazy. We don't like to repeat ourselves. We like to keep it DRY
 building modules to extract it out. Then, we'll use the `extend` and `include`
 keywords to lend the functionality of our modules to our `Artist` and `Song`
 classes.
-
+ 
 ## Configuring our Environment
 
 Instead of requiring individual files within one another, as you may have
