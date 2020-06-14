@@ -1,0 +1,1 @@
+Artist.find_by_name("Adele")
